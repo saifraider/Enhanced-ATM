@@ -140,9 +140,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Donate.gif" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\13c887ee7154c59f02c320eaae39a44b.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -152,11 +149,5 @@
     <None Include="Resources\Capture1.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
-       Other similar extension points exist, see Microsoft.Common.targets.
-  <Target Name="BeforeBuild">
-  </Target>
-  <Target Name="AfterBuild">
-  </Target>
-  -->
+get>
 </Project>
