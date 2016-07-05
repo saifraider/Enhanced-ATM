@@ -1,0 +1,50 @@
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\admin.exe
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\admin.pdb
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\Emgu.CV.dll
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\Emgu.Util.dll
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\MySql.Data.dll
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\MySql.Data.Entity.dll
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\Emgu.CV.xml
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\bin\Debug\Emgu.Util.xml
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\obj\x86\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\obj\x86\Debug\admin.Form1.resources
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\obj\x86\Debug\admin.Properties.Resources.resources
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\obj\x86\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\obj\x86\Debug\admin.exe
+C:\Users\ilf\AppData\Local\Temporary Projects\admin\obj\x86\Debug\admin.pdb
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.exe
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.pdb
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\admin.exe
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\admin.pdb
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\Emgu.CV.dll
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\Emgu.Util.dll
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\MySql.Data.dll
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\MySql.Data.Entity.dll
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\Emgu.CV.xml
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\bin\Debug\Emgu.Util.xml
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.Form1.resources
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.Properties.Resources.resources
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.csproj.GenerateResource.Cache
+C:\Users\ilf\documents\visual studio 2010\Projects\admin\admin\obj\x86\Debug\admin.Form2.resources
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.exe
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.pdb
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\admin.exe
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\admin.pdb
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\Emgu.CV.dll
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\Emgu.Util.dll
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\MySql.Data.dll
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\Emgu.CV.xml
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\bin\Debug\Emgu.Util.xml
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.csprojResolveAssemblyReference.cache
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.Form1.resources
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.Form2.resources
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.Properties.Resources.resources
+C:\Users\Sharad\Documents\Visual Studio 2012\Projects\admin\admin\obj\x86\Debug\admin.csproj.GenerateResource.Cache

@@ -1,0 +1,31 @@
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\bin\Release\ATM_Project.exe
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\bin\Release\ATM_Project.pdb
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\bin\Release\ATM_Project.xml
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\bin\Release\MySql.Data.dll
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\bin\Release\MySql.Data.Entity.dll
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.transaction.resources
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.otp.resources
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Start.resources
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.vbproj.GenerateResource.Cache
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.exe
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.xml
+C:\Users\ilf\Documents\Visual Studio 2010\Projects\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.pdb
+F:\be_project\ATM_Project\ATM_Project\bin\Release\ATM_Project.exe
+F:\be_project\ATM_Project\ATM_Project\bin\Release\ATM_Project.pdb
+F:\be_project\ATM_Project\ATM_Project\bin\Release\ATM_Project.xml
+F:\be_project\ATM_Project\ATM_Project\bin\Release\MySql.Data.dll
+F:\be_project\ATM_Project\ATM_Project\bin\Release\MySql.Data.Entity.dll
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Form1.resources
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Form2.resources
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.transaction.resources
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.otp.resources
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Start.resources
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\WindowsApplication1.Resources.resources
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.vbproj.GenerateResource.Cache
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.exe
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.xml
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.pdb
+F:\be_project\ATM_Project\ATM_Project\obj\x86\Release\ATM_Project.vbprojResolveAssemblyReference.cache
