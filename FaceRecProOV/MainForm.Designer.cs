@@ -13,8 +13,6 @@
             base.Dispose(disposing);
         }
 
-        #region Código generado por el Diseñador de Windows Forms
-
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
